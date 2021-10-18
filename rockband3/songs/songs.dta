@@ -1,0 +1,4239 @@
+(
+   'freebird'
+   (
+      'name'
+      "Free Bird"
+   )
+   (
+      'artist'
+      "Lynyrd Skynyrd"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o224266688/o224266688"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 -0.8 -0.8 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o224266688/o224266688.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 'kTempoMedium')
+   ('song_length' 583072)
+   ('preview' 245388 275388)
+   (
+      'rank'
+      ('vocals' 127)
+      ('bass' 494)
+      ('guitar' 474)
+      ('drum' 207)
+      ('band' 400)
+   )
+   ('genre' 'southernrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1973)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_southernrock')
+   ('song_id' '1079')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "(Pronounced 'Leh-'nerd 'Skin-'nerd)"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=Free Bird
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'foolin'
+   (
+      'name'
+      "Foolin'"
+   )
+   (
+      'artist'
+      "Def Leppard"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o205750092/o205750092"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (12 13)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 -2.5 -2.5 -2.0 -2.0 0.0 0.0 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5 -2.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o205750092/o205750092.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 275687)
+   ('preview' 163087 193087)
+   (
+      'rank'
+      ('vocals' 463)
+      ('bass' 321)
+      ('guitar' 288)
+      ('drum' 170)
+      ('band' 230)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1983)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1090')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Pyromania"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=Foolin'
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'miserybusiness2'
+   (
+      'name'
+      "Misery Business"
+   )
+   (
+      'artist'
+      "Paramore"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o612658528/o612658528"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.0 -1.5 -1.5 -2.0 -2.0 -4.0 -4.5 -4.5 -5.0 -5.0 -5.0 -5.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o612658528/o612658528.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 202514)
+   ('preview' 41423 71423)
+   (
+      'rank'
+      ('vocals' 475)
+      ('bass' 298)
+      ('guitar' 231)
+      ('drum' 370)
+      ('band' 300)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2007)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1064')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Riot!"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20190707
+;Song authored by Harmonix
+;Song=Misery Business
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'iwannabesedated'
+   (
+      'name'
+      "I Wanna Be Sedated"
+   )
+   (
+      'artist'
+      "Ramones"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o536381138/o536381138"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o536381138/o536381138.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 152443)
+   ('preview' 7267 37267)
+   (
+      'rank'
+      ('vocals' 113)
+      ('bass' 169)
+      ('guitar' 186)
+      ('drum' 116)
+      ('band' 133)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1978)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1036')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Road to Ruin"
+   )
+   ('album_track_number' 7)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20200426
+;Song authored by Harmonix
+;Song=I Wanna Be Sedated
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'bohemianrhapsody'
+   (
+      'name'
+      "Bohemian Rhapsody"
+   )
+   (
+      'artist'
+      "Queen"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o570687129/o570687129"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -4.0 -4.0 -4.0 -4.0 -3.5 -3.5 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0 -5.5 -5.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+	('crowd_channels' 14 15)
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o570687129/o570687129.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 362852)
+   ('preview' 142000 172000)
+   (
+      'rank'
+      ('vocals' 494)
+      ('bass' 333)
+      ('guitar' 277)
+      ('drum' 183)
+      ('band' 365)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 1)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1975)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1003')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "A Night at the Opera"
+   )
+   ('album_track_number' 11)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20200426
+;Song authored by Harmonix
+;Song=Bohemian Rhapsody
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'thisbastardslife'
+   (
+      'name'
+      "This Bastard's Life"
+   )
+   (
+      'artist'
+      "Swingin' Utters"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o4463222/o4463222"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 -2.5 -2.5 -4.0 -4.0 -4.0 -3.5 -3.5 -3.5 -3.5 -3.2 -3.2 -4.5 -4.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o4463222/o4463222.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 'kTempoSlow')
+   ('song_length' 192026)
+   ('preview' 14608 43283)
+   (
+      'rank'
+      ('vocals' 192)
+      ('bass' 399)
+      ('guitar' 179)
+      ('drum' 150)
+      ('band' 217)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1998)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1103')
+   ('tuning_offset_cents' 48)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Five Lessons Learned"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=This Bastard's Life
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'thelook'
+   (
+      'name'
+      "The Look"
+   )
+   (
+      'artist'
+      "Roxette"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o100871531/o100871531"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (12 13)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0  -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o100871531/o100871531.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 254013)
+   ('preview' 36333 66333)
+   (
+      'rank'
+      ('vocals' 142)
+      ('bass' 452)
+      ('guitar' 283)
+      ('drum' 163)
+      ('band' 195)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1988)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1072')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Look Sharp!"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=The Look
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'spaceoddity'
+   (
+      'name'
+      "Space Oddity"
+   )
+   (
+      'artist'
+      "David Bowie"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o102269277/o102269277"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -0.2 -0.2 -1.3 -1.3 -0.8 -0.8 -3.5 -3.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o102269277/o102269277.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 316743)
+   ('preview' 57817 87810)
+   (
+      'rank'
+      ('vocals' 152)
+      ('bass' 223)
+      ('guitar' 160)
+      ('drum' 127)
+      ('band' 160)
+   )
+   ('genre' 'glam')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1969)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_glam')
+   ('song_id' '1098')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Space Oddity"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Space Oddity
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'crazytrain'
+   (
+      'name'
+      "Crazy Train"
+   )
+   (
+      'artist'
+      "Ozzy Osbourne"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o125102000/o125102000"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2)
+            )
+            (
+               'bass'
+               (3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+	('crowd_channels' 10 11)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o125102000/o125102000.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 286617)
+   ('preview' 77000 107000)
+   (
+      'rank'
+      ('vocals' 131)
+      ('bass' 458)
+      ('guitar' 441)
+      ('drum' 481)
+      ('band' 378)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1980)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1009')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Blizzard of Ozz"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Crazy Train
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'duhast'
+   (
+      'name'
+      "Du Hast"
+   )
+   (
+      'artist'
+      "Rammstein"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o141683955/o141683955"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -7.0 -7.0 -1.0 -1.0 -1.0 -1.0 -6.0 -6.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+	('crowd_channels' 14 15)
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o141683955/o141683955.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 256793)
+   ('preview' 25000 55000)
+   (
+      'rank'
+      ('vocals' 272)
+      ('bass' 149)
+      ('guitar' 220)
+      ('drum' 284)
+      ('band' 267)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1997)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1082')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Sehnsucht"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Du Hast
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'nooneknows'
+   (
+      'name'
+      "No One Knows"
+   )
+   (
+      'artist'
+      "Queens of the Stone Age"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o83247318/o83247318"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o83247318/o83247318.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 261312)
+   ('preview' 18000 48000)
+   (
+      'rank'
+      ('vocals' 266)
+      ('bass' 488)
+      ('guitar' 408)
+      ('drum' 490)
+      ('band' 360)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2002)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1055')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Songs for the Deaf"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=No One Knows
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'beforeiforget'
+   (
+      'name'
+      "Before I Forget"
+   )
+   (
+      'artist'
+      "Slipknot"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o905255943/o905255943"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols' 
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+	('crowd_channels' 14 15)
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o905255943/o905255943.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 268175)
+   ('preview' 72454 102454)
+   (
+      'rank'
+      ('vocals' 124)
+      ('bass' 423)
+      ('guitar' 430)
+      ('drum' 387)
+      ('band' 344)
+   )
+   ('genre' 'numetal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2004)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1100')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Vol. 3: (The Subliminal Verses)"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Before I Forget
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'roundabout'
+   (
+      'name'
+      "Roundabout"
+   )
+   (
+      'artist'
+      "Yes"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o813166448/o813166448"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o813166448/o813166448.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 517005)
+   ('preview' 108634 138634)
+   (
+      'rank'
+      ('vocals' 408)
+      ('bass' 482)
+      ('guitar' 452)
+      ('drum' 473)
+      ('band' 500)
+   )
+   ('genre' 'prog')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1971)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_progrock')
+   ('song_id' '1012')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Fragile"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Roundabout
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'iloverocknroll'
+   (
+      'name'
+      "I Love Rock N' Roll"
+   )
+   (
+      'artist'
+      "Joan Jett & The Blackhearts"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o884776486/o884776486"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.5 -3.5 -3.5 -4.0 -4.0 -4.0 -4.0 -4.5 -4.5 -3.5 -3.5)
+      )
+      ('crowd_channels' 9 10)
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o884776486/o884776486.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 179823)
+   ('preview' 43328 73328)
+   (
+      'rank'
+      ('vocals' 95)
+      ('bass' 107)
+      ('guitar' 140)
+      ('drum' 105)
+      ('band' 100)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1981)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classic')
+   ('song_id' '1083')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "I Love Rock N' Roll"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=I Love Rock N' Roll
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'smokeonthewater'
+   (
+      'name'
+      "Smoke on the Water"
+   )
+   (
+      'artist'
+      "Deep Purple"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o680299502/o680299502"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.0 -0.0 -1.5 -1.5 -1.5 -1.5 -1.0 -1.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0 -5.0 -5.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+	('crowd_channels' 14 15)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o680299502/o680299502.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 'kTempoMedium')
+   ('song_length' 354645)
+   ('preview' 30093 58374)
+   (
+      'rank'
+      ('vocals' 163)
+      ('bass' 114)
+      ('guitar' 138)
+      ('drum' 460)
+      ('band' 355)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1972)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1046')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Machine Head"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Smoke on the Water
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'sisterchristian'
+   (
+      'name'
+      "Sister Christian"
+   )
+   (
+      'artist'
+      "Night Ranger"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o448040382/o448040382"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+	  (vocal_parts 3)
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o448040382/o448040382.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 304467)
+   ('preview' 65000 95000)
+   (
+      'rank'
+      ('vocals' 181)
+      ('bass' 118)
+      ('guitar' 359)
+      ('drum' 145)
+      ('band' 268)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1983)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1004')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Midnight Madness"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Sister Christian
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'caughtinamosh'
+   (
+      'name'
+      "Caught in a Mosh"
+   )
+   (
+      'artist'
+      "Anthrax"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o388430049/o388430049"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+	('crowd_channels' 14 15)
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o388430049/o388430049.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 303512)
+   ('preview' 67303 97303)
+   (
+      'rank'
+      ('vocals' 377)
+      ('bass' 470)
+      ('guitar' 447)
+      ('drum' 533)
+      ('band' 450)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_thrash')
+   ('song_id' '1049')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Among the Living"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Caught in a Mosh
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'yoshimibattles'
+   (
+      'name'
+      "Yoshimi Battles the Pink Robots Pt. 1"
+   )
+   (
+      'artist'
+      "The Flaming Lips"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o51006285/o51006285"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -1.0 -2.0 -2.0 -2.0 -2.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o51006285/o51006285.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 293164)
+   ('preview' 71981 101981)
+   (
+      'rank'
+      ('vocals' 109)
+      ('bass' 103)
+      ('guitar' 209)
+      ('drum' 138)
+      ('band' 155)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2002)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1035')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Yoshimi Battles the Pink Robots"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Yoshimi Battles the Pink Robots Pt. 1
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'heartofglass'
+   (
+      'name'
+      "Heart of Glass"
+   )
+   (
+      'artist'
+      "Blondie"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o74128386/o74128386"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (12 13)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -2.0 -2.0 -2.0 -2.0 -4.0 -4.0 -6.0 -6.0 -7.0 -7.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o74128386/o74128386.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 236153)
+   ('preview' 78670 107670)
+   (
+      'rank'
+      ('vocals' 278)
+      ('bass' 165)
+      ('guitar' 183)
+      ('drum' 293)
+      ('band' 215)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1978)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1045')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Parallel Lines"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Heart of Glass
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   '25or6to4'
+   (
+      'name'
+      "25 or 6 to 4"
+   )
+   (
+      'artist'
+      "Chicago"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o357485953/o357485953"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.5 -1.5 -1.5 -1.5 -1.6 -1.6 -2.7 -2.7 -2.3 -2.3 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o357485953/o357485953.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 295972)
+   ('preview' 9845 39845)
+   (
+      'rank'
+      ('vocals' 315)
+      ('bass' 393)
+      ('guitar' 469)
+      ('drum' 499)
+      ('band' 445)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1970)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1013')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Chicago II"
+   )
+   ('album_track_number' 14)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=25 or 6 to 4
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'flylikeaneagle'
+   (
+      'name'
+      "Fly Like an Eagle"
+   )
+   (
+      'artist'
+      "Steve Miller Band"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o651412418/o651412418"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5 6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (11 12)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 -2.0 -2.0 -2.5 -2.5 -1.5 -1.5 -3.5 -3.5 -5.0 -5.0 -2.5 -2.5 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o651412418/o651412418.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 273613)
+   ('preview' 45481 75481)
+   (
+      'rank'
+      ('vocals' 160)
+      ('bass' 435)
+      ('guitar' 130)
+      ('drum' 396)
+      ('band' 255)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1976)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1067')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Fly Like an Eagle"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Fly Like an Eagle
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'llama'
+   (
+      'name'
+      "Llama"
+   )
+   (
+      'artist'
+      "Phish"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o858576909/o858576909"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (11 12)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.0 -2.0 -2.0 -2.0 -2.0 -2.0 0.0 -2.0 -2.0 -1.0 -1.0 -1.0 -1.0 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o858576909/o858576909.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 216891)
+   ('preview' 46486 76486)
+   (
+      'rank'
+      ('vocals' 488)
+      ('bass' 500)
+      ('guitar' 463)
+      ('drum' 550)
+      ('band' 495)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1094')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "A Picture of Nectar"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Llama
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'radarlove'
+   (
+      'name'
+      "Radar Love"
+   )
+   (
+      'artist'
+      "Golden Earring"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o150106071/o150106071"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.3 -1.3 -1.3 -3.5 -3.5 -2.0 -2.0 -1.8 -1.8 -2.0 -2.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o150106071/o150106071.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 388275)
+   ('preview' 70170 100170)
+   (
+      'rank'
+      ('vocals' 174)
+      ('bass' 429)
+      ('guitar' 425)
+      ('drum' 524)
+      ('band' 430)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1973)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1054')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Moontan"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Radar Love
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'thekillingmoon'
+   (
+      'name'
+      "The Killing Moon"
+   )
+   (
+      'artist'
+      "Echo & The Bunnymen"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o621192808/o621192808"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 -0.3 -0.3 -2.5 -2.5 -0.5 -0.5 -1.5 -1.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o621192808/o621192808.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 368489)
+   ('preview' 99427 128049)
+   (
+      'rank'
+      ('vocals' 221)
+      ('bass' 262)
+      ('guitar' 272)
+      ('drum' 430)
+      ('band' 261)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1984)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1058')
+   ('tuning_offset_cents' 5.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Ocean Rain"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=The Killing Moon
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'thebeautifulpeople'
+   (
+      'name'
+      "The Beautiful People"
+   )
+   (
+      'artist'
+      "Marilyn Manson"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o754511853/o754511853"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0 -0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o754511853/o754511853.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 221844)
+   ('preview' 84000 114000)
+   (
+      'rank'
+      ('vocals' 203)
+      ('bass' 231)
+      ('guitar' 266)
+      ('drum' 353)
+      ('band' 245)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1996)
+   ('rating' 3)
+   ('sub_genre' 'subgenre_industrial')
+   ('song_id' '1008')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Antichrist Superstar"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=The Beautiful People
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'heymanniceshot'
+   (
+      'name'
+      "Hey Man Nice Shot"
+   )
+   (
+      'artist'
+      "Filter"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o379472533/o379472533"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-3.0 -3.0 -3.0 -3.0 -3.0 -3.0 0.0 0.0 -1.5 -1.5 -2.3 -2.3 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o379472533/o379472533.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 298399)
+   ('preview' 81000 111000)
+   (
+      'rank'
+      ('vocals' 213)
+      ('bass' 476)
+      ('guitar' 228)
+      ('drum' 136)
+      ('band' 278)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1995)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1043')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Short Bus"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Hey Man Nice Shot
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'rainbowinthedark'
+   (
+      'name'
+      "Rainbow in the Dark"
+   )
+   (
+      'artist'
+      "Dio"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o670545928/o670545928"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.5 -2.5 -4.5 -4.5 -2.0 -2.0 -2.8 -2.8 -2.5 -2.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o670545928/o670545928.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 267894)
+   ('preview' 44768 74768)
+   (
+      'rank'
+      ('vocals' 210)
+      ('bass' 315)
+      ('guitar' 458)
+      ('drum' 171)
+      ('band' 432)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1983)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1047')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Holy Diver"
+   )
+   ('album_track_number' 8)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Rainbow in the Dark
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'needyoutonight'
+   (
+      'name'
+      "Need You Tonight"
+   )
+   (
+      'artist'
+      "INXS"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o94084184/o94084184"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (11 12)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o94084184/o94084184.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 188745)
+   ('preview' 63000 93000)
+   (
+      'rank'
+      ('vocals' 401)
+      ('bass' 99)
+      ('guitar' 119)
+      ('drum' 301)
+      ('band' 237)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1016')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Kick"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Need You Tonight
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'hereigoagain'
+   (
+      'name'
+      "Here I Go Again"
+   )
+   (
+      'artist'
+      "Whitesnake"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o340441370/o340441370"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.5 -3.5 -3.5 -3.5 -3.5 0.0 -2.5 -2.5 -3.0 -3.0 -3.0 -3.0 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o340441370/o340441370.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 278524)
+   ('preview' 81000 111000)
+   (
+      'rank'
+      ('vocals' 340)
+      ('bass' 176)
+      ('guitar' 376)
+      ('drum' 161)
+      ('band' 253)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1987)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1077')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Whitesnake"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Here I Go Again
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'thepoweroflove'
+   (
+      'name'
+      "The Power of Love"
+   )
+   (
+      'artist'
+      "Huey Lewis and the News"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o552282621/o552282621"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-1.0 0.0 0.0 -2.5 -2.5 -1.0 -2.7 -2.7 -3.0 -3.0 -2.5 -2.5 -2.5 -2.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o552282621/o552282621.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 237627)
+   ('preview' 52000 82000)
+   (
+      'rank'
+      ('vocals' 414)
+      ('bass' 345)
+      ('guitar' 343)
+      ('drum' 123)
+      ('band' 242)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1985)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1021')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Greatest Hits"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=The Power of Love
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+(
+   'beastandtheharlot'
+   (
+      'name'
+      "Beast and the Harlot"
+   )
+   (
+      'artist'
+      "Avenged Sevenfold"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o721074322/o721074322"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5 6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+            
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1.2 -1.2 0.0 0.0 -1.0 -1.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+	  (crowd_channels 13 14)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o721074322/o721074322.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 342978)
+   ('preview' 81873 111873)
+   (
+      'rank'
+      ('vocals' 426)
+      ('bass' 464)
+      ('guitar' 387)
+      ('drum' 541)
+      ('band' 465)
+   )
+   ('genre' 'metal')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2005)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_metal')
+   ('song_id' '1074')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "City of Evil"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit
+;Song authored by Harmonix
+;Song=Beast and the Harlot
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'lowrider'
+   (
+      'name'
+      "Low Rider"
+   )
+   (
+      'artist'
+      "WAR"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o559746074/o559746074"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o559746074/o559746074.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 191530)
+   ('preview' 13246 41857)
+   (
+      'rank'
+      ('vocals' 149)
+      ('bass' 286)
+      ('guitar' 108)
+      ('drum' 109)
+      ('band' 139)
+   )
+   ('genre' 'rbsoulfunk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1975)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_rhythmandblues')
+   ('song_id' '1085')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Why Can't We Be Friends?"
+   )
+   ('album_track_number' 10)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Low Rider
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'breakonthrough'
+   (
+      'name'
+      "Break on Through (To the Other Side)"
+   )
+   (
+      'artist'
+      "The Doors"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o4949727/o4949727"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o4949727/o4949727.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 151063)
+   ('preview' 14000 44000)
+   (
+      'rank'
+      ('vocals' 156)
+      ('bass' 375)
+      ('guitar' 224)
+      ('drum' 319)
+      ('band' 288)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1967)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1101')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "The Doors"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Break on Through (To the Other Side)
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'plush'
+   (
+      'name'
+      "Plush"
+   )
+   (
+      'artist'
+      "Stone Temple Pilots"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o394196889/o394196889"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o394196889/o394196889.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 313992)
+   ('preview' 37523 67523)
+   (
+      'rank'
+      ('vocals' 178)
+      ('bass' 192)
+      ('guitar' 239)
+      ('drum' 165)
+      ('band' 218)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1031')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Core"
+   )
+   ('album_track_number' 9)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Plush
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'dontstandsoclosetome'
+   (
+      'name'
+      "Don't Stand So Close to Me"
+   )
+   (
+      'artist'
+      "The Police"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o651557562/o651557562"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+	  (vocal_parts 3)
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o651557562/o651557562.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 225298)
+   ('preview' 51700 80085)
+   (
+      'rank'
+      ('vocals' 290)
+      ('bass' 292)
+      ('guitar' 326)
+      ('drum' 141)
+      ('band' 214)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1980)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1057')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Zenyatta Mondatta"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Don't Stand So Close to Me
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'everybodywantstorule'
+   (
+      'name'
+      "Everybody Wants to Rule the World"
+   )
+   (
+      'artist'
+      "Tears for Fears"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o673823289/o673823289"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 2)
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o673823289/o673823289.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 254684)
+   ('preview' 46000 76000)
+   (
+      'rank'
+      ('vocals' 253)
+      ('bass' 250)
+      ('guitar' 168)
+      ('drum' 421)
+      ('band' 239)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1985)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1033')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Songs from the Big Chair"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Everybody Wants to Rule the World
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
