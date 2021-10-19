@@ -4237,3 +4237,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'o672060847'
+   (
+      'name'
+      "Crosstown Traffic"
+   )
+   (
+      'artist'
+      "The Jimi Hendrix Experience"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o672060847/o672060847"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2 3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o672060847/o672060847.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 148754)
+   ('preview' 35387 65387)
+   (
+      'rank'
+      ('vocals' 469)
+      ('bass' 327)
+      ('guitar' 348)
+      ('drum' 276)
+      ('band' 328)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1968)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1018')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Electric Ladyland"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Crosstown Traffic
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
