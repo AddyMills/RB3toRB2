@@ -4285,6 +4285,7 @@
          'vols'
          (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
       )
+	  (vocal_parts 3)
       (
          'cores'
          (-1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
@@ -4349,7 +4350,364 @@
 ;Karaoke=0
 ;Multitrack=1
 ;Convert=0
-;2xBass=00
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'whipit'
+   (
+      'name'
+      "Whip It"
+   )
+   (
+      'artist'
+      "Devo"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o746028977/o746028977"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (12 13)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 2)
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o746028977/o746028977.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 164569)
+   ('preview' 35758 65758)
+   (
+      'rank'
+      ('vocals' 99)
+      ('bass' 246)
+      ('guitar' 216)
+      ('drum' 216)
+      ('band' 216)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1980)
+   ('year_recorded' 2010)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1048')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Devo Rock Band Re-Records"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Whip It
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'rehab'
+   (
+      'name'
+      "Rehab"
+   )
+   (
+      'artist'
+      "Amy Winehouse"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o319200050/o319200050"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6 7)
+            )
+            (
+               'guitar'
+               (8 9)
+            )
+            (
+               'vocals'
+               (10 11)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 3)
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o319200050/o319200050.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 218418)
+   ('preview' 134400 163400)
+   (
+      'rank'
+      ('vocals' 241)
+      ('bass' 138)
+      ('guitar' 104)
+      ('drum' 310)
+      ('band' 255)
+   )
+   ('genre' 'rbsoulfunk')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2006)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_soul')
+   ('song_id' '1044')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Back to Black"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Rehab
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'jerrywasaracecar'
+   (
+      'name'
+      "Jerry Was a Race Car Driver"
+   )
+   (
+      'artist'
+      "Primus"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o738505099/o738505099"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2)
+            )
+            (
+               'bass'
+               (3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o738505099/o738505099.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 190860)
+   ('preview' 28234 58234)
+   (
+      'rank'
+      ('vocals' 102)
+      ('bass' 417)
+      ('guitar' 190)
+      ('drum' 456)
+      ('band' 295)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1991)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1078')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Sailing the Seas of Cheese"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Jerry Was a Race Car Driver
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
 ;RhythmKeys=0
 ;RhythmBass=0
 ;CATemh=0
