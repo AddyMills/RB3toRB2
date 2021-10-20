@@ -4349,7 +4349,7 @@
 ;Karaoke=0
 ;Multitrack=1
 ;Convert=0
-;2xBass=0
+;2xBass=00
 ;RhythmKeys=0
 ;RhythmBass=0
 ;CATemh=0
