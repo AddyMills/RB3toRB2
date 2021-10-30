@@ -5213,3 +5213,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'falsealarm'
+   (
+      'name'
+      "False Alarm"
+   )
+   (
+      'artist'
+      "The Bronx"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o411639724/o411639724"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 0.2)
+      )
+      (
+         'vols'
+         (-1.0 -1.0 -3.5 -3.5 -1.5 -3.2 -3.2 -3.7 -3.7 -7.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 1 1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o411639724/o411639724.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 136972)
+   ('preview' 50085 80085)
+   (
+      'rank'
+      ('vocals' 134)
+      ('bass' 363)
+      ('guitar' 354)
+      ('drum' 447)
+      ('band' 272)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_hardcore')
+   ('song_id' '1105')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "The Bronx"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=False Alarm
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
