@@ -5686,3 +5686,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'walkoflife'
+   (
+      'name'
+      "Walk of Life"
+   )
+   (
+      'artist'
+      "Dire Straits"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o747343044/o747343044"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 3)
+      (
+         'vols'
+         (-0.5 -3.5 -3.5 -3.5 -3.5 -0.5 -2.5 -2.5 -3.5 -3.5 -3.5 -3.5 -3.5 -3.5)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o747343044/o747343044.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 243439)
+   ('preview' 78437 108437)
+   (
+      'rank'
+      ('vocals' 224)
+      ('bass' 381)
+      ('guitar' 419)
+      ('drum' 107)
+      ('band' 220)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1985)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1092')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Brothers in Arms"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Walk of Life
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
