@@ -1751,7 +1751,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_classicrock')
    ('song_id' '1046')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 8)
    ('game_origin' 'rb3')
    (
       'album_name'
@@ -3052,7 +3052,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_alternative')
    ('song_id' '1043')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 10)
    ('game_origin' 'rb3')
    (
       'album_name'
@@ -3170,7 +3170,7 @@
    ('rating' 2)
    ('sub_genre' 'subgenre_metal')
    ('song_id' '1047')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' 15)
    ('game_origin' 'rb3')
    (
       'album_name'
@@ -4237,7 +4237,7 @@
    ('rating' 1)
    ('sub_genre' 'subgenre_other')
    ('song_id' '1033')
-   ('tuning_offset_cents' 0.0)
+   ('tuning_offset_cents' -35)
    ('game_origin' 'rb3')
    (
       'album_name'
@@ -5925,3 +5925,120 @@
 ;ExpertOnly=0
 )
 
+
+(
+   'werewolvesoflondon'
+   (
+      'name'
+      "Werewolves of London"
+   )
+   (
+      'artist'
+      "Warren Zevon"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o10671745/o10671745"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 0.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-0.0 -0.0 -2.5 -2.5 -0.5 -5.8 -5.8 -5.5 -5.5 -5.5 -5.5 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o10671745/o10671745.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 220547)
+   ('preview' 36780 66780)
+   (
+      'rank'
+      ('vocals' 106)
+      ('bass' 304)
+      ('guitar' 141)
+      ('drum' 125)
+      ('band' 166)
+   )
+   ('genre' 'classicrock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1978)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_classicrock')
+   ('song_id' '1056')
+   ('tuning_offset_cents' 15)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Excitable Boy"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Werewolves of London
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
