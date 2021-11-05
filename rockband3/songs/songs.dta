@@ -6161,3 +6161,122 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'dontburyme'
+   (
+      'name'
+      "Don't Bury Me... I'm Still Not Dead"
+   )
+   (
+      'artist'
+      "Riverboat Gamblers"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o273290023/o273290023"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (
+         'pans'
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+	  (vocal_parts 2)
+      (
+         'vols'
+         (-1.5 -3.2 -3.2 -5.2 -5.2 -6.2 -4.2 -4.2 -3.9 -3.9 -4.2 -4.2)
+      )
+      (
+         'cores'
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o273290023/o273290023.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 168251)
+   ('preview' 25494 55494)
+   (
+      'rank'
+      ('vocals' 185)
+      ('bass' 204)
+      ('guitar' 235)
+      ('drum' 336)
+      ('band' 266)
+   )
+   ('genre' 'punk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2006)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1106')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "To The Confusion Of Our Enemies"
+   )
+   ('album_track_number' 2)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Don't Bury Me... I'm Still Not Dead
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
