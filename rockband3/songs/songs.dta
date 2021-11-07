@@ -6517,3 +6517,121 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'kinggeorge'
+   (
+      'name'
+      "King George"
+   )
+   (
+      'artist'
+      "Dover"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o265565146/o265565146"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (
+         'pans'
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0)
+      )
+      (
+         'vols'
+         (-2.2 -2.2 -2.7 -5.5 -5.5 -5.7 -5.7 -3.0 -3.0)
+      )
+      (
+         'cores'
+         (-1 -1 -1 1 1 -1 -1 -1 -1)
+      )
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o265565146/o265565146.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 177042)
+   ('preview' 91580 121580)
+   (
+      'rank'
+      ('vocals' 260)
+      ('bass' 256)
+      ('guitar' 294)
+      ('drum' 327)
+      ('band' 234)
+   )
+   ('genre' 'rock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2001)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rock')
+   ('song_id' '1104')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "I Was Dead for 7 Weeks in the City of Angels"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=King George
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
