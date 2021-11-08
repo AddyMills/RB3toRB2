@@ -6764,3 +6764,147 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'ifeelgoodalt'
+   (
+      'name'
+      "I Got You (I Feel Good)"
+   )
+   (
+      'artist'
+      "James Brown"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o947565731/o947565731"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (pans (0.00
+				0.00
+				-1.00
+				1.00
+				0.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00))
+		(vols (-3.50
+				-1.50
+				-8.00
+				-8.00
+				-4.00
+				-4.30
+				-4.30
+				-5.50
+				-5.50
+				-4.80
+				-4.80
+				-8.50
+				-8.50))
+		(cores (-1
+				-1
+				-1
+				-1
+				-1
+				1
+				1
+				-1
+				-1
+				-1
+				-1
+				-1
+				-1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o947565731/o947565731.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 178839)
+   ('preview' 48000 78000)
+   (
+      'rank'
+      ('vocals' 482)
+      ('bass' 440)
+      ('guitar' 321)
+      ('drum' 224)
+      ('band' 320)
+   )
+   ('genre' 'rbsoulfunk')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('year_released' 2010)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_rhythmandblues')
+   ('song_id' '1066')
+   ('tuning_offset_cents' -20)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Alternative Studio Version"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the60s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=I Got You (I Feel Good)
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
