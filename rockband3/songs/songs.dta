@@ -6908,3 +6908,145 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'getupstandup'
+   (
+      'name'
+      "Get Up, Stand Up"
+   )
+   (
+      'artist'
+      "Bob Marley & The Wailers"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o863983543/o863983543"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2)
+            )
+            (
+               'bass'
+               (3)
+            )
+            (
+               'guitar'
+               (4 5)
+            )
+            (
+               'vocals'
+               (6 7)
+            )
+         )
+      )
+      (pans (0.00
+				-1.00
+				1.00
+				0.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00))
+		(vols (-0.50
+				-2.00
+				-2.00
+				-0.50
+				-2.00
+				-2.00
+				-2.20
+				-2.20
+				-1.00
+				-1.00
+				-5.50
+				-5.50))
+		(cores (-1
+				-1
+				-1
+				-1
+				1
+				1
+				-1
+				-1
+				-1
+				-1
+				-1
+				-1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o863983543/o863983543.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 195658)
+   ('preview' 26888 54891)
+   (
+      'rank'
+      ('vocals' 383)
+      ('bass' 339)
+      ('guitar' 153)
+      ('drum' 154)
+      ('band' 205)
+   )
+   ('genre' 'reggaeska')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1973)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_reggae')
+   ('song_id' '1075')
+   ('tuning_offset_cents' -25)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Legend"
+   )
+   ('album_track_number' 6)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix, SanicStudios
+;Song=Get Up, Stand Up
+;Languages=English,
+;Karaoke=0
+;Multitrack=0
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
