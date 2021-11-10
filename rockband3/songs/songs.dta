@@ -7197,3 +7197,149 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'rocklobster'
+   (
+      'name'
+      "Rock Lobster"
+   )
+   (
+      'artist'
+      "The B-52's"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o804956229/o804956229"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (vocal_parts 3)
+		(pans (0.00
+				0.00
+				-1.00
+				1.00
+				0.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00))
+		(vols (-1.50
+				-1.50
+				-4.00
+				-4.00
+				-1.50
+				-4.50
+				-4.50
+				-4.00
+				-4.00
+				-8.00
+				-8.00
+				-4.50
+				-4.50))
+		(cores (-1
+				-1
+				-1
+				-1
+				-1
+				1
+				1
+				-1
+				-1
+				-1
+				-1
+				-1
+				-1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o804956229/o804956229.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/cowbell_bank.milo"
+   )
+   ('anim_tempo' 64)
+   ('song_length' 303375)
+   ('preview' 60445 90445)
+   (
+      'rank'
+      ('vocals' 420)
+      ('bass' 184)
+      ('guitar' 305)
+      ('drum' 404)
+      ('band' 260)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1979)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1025')
+   ('tuning_offset_cents' 40)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "The B-52's"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the70s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Rock Lobster
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
