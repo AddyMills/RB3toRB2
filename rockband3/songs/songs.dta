@@ -7343,3 +7343,149 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'walkinonthesun'
+   (
+      'name'
+      "Walking on the Sun"
+   )
+   (
+      'artist'
+      "Smash Mouth"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o950816994/o950816994"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2)
+            )
+            (
+               'bass'
+               (3 4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (vocal_parts 2)
+		(pans (-0.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00))
+		(vols (-3.00
+				-4.70
+				-4.70
+				-6.00
+				-6.00
+				-6.50
+				-6.50
+				-4.50
+				-4.50
+				-6.50
+				-6.50
+				-6.50
+				-6.50))
+		(cores (-1
+				-1
+				-1
+				-1
+				-1
+				1
+				1
+				-1
+				-1
+				-1
+				-1
+				-1
+				-1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o950816994/o950816994.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 208746)
+   ('preview' 44369 74369)
+   (
+      'rank'
+      ('vocals' 247)
+      ('bass' 134)
+      ('guitar' 126)
+      ('drum' 102)
+      ('band' 162)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1997)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1061')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Fush Yu Mang"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Walking on the Sun
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
