@@ -7489,3 +7489,149 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'meenamora'
+   (
+      'name'
+      "Me Enamora"
+   )
+   (
+      'artist'
+      "Juanes"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o882670007/o882670007"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3)
+            )
+            (
+               'bass'
+               (4)
+            )
+            (
+               'guitar'
+               (5 6)
+            )
+            (
+               'vocals'
+               (7 8)
+            )
+         )
+      )
+      (vocal_parts 3)
+		(pans (0.00
+				0.00
+				-1.00
+				1.00
+				0.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00
+				-1.00
+				1.00))
+		(vols (-2.00
+				-2.00
+				-5.30
+				-5.30
+				-3.00
+				-5.00
+				-5.00
+				-5.50
+				-5.50
+				-6.00
+				-6.00
+				-5.50
+				-5.50))
+		(cores (-1
+				-1
+				-1
+				-1
+				-1
+				1
+				1
+				-1
+				-1
+				-1
+				-1
+				-1
+				-1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o882670007/o882670007.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 194594)
+   ('preview' 52291 82291)
+   (
+      'rank'
+      ('vocals' 457)
+      ('bass' 157)
+      ('guitar' 145)
+      ('drum' 344)
+      ('band' 275)
+   )
+   ('genre' 'latin')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2007)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1084')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "La Vida... Es un Ratico"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Me Enamora
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
