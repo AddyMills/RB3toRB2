@@ -5662,7 +5662,7 @@
    ('sub_genre' 'subgenre_rock')
    ('song_id' '1001')
    ('tuning_offset_cents' 0.0)
-   (video_venues (video_05))
+   (video_venues (video_01))
    ('game_origin' 'rb3')
    (
       'album_name'
