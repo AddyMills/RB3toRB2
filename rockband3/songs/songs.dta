@@ -94,7 +94,7 @@
    ('game_origin' 'rb3')
    (
       'album_name'
-      "(Pronounced 'Leh-'nerd 'Skin-'nerd)"
+      "(pronounced 'leh-'nérd 'skin-'nérd)"
    )
    ('album_track_number' 8)
    ('context' 2000)
@@ -4122,7 +4122,7 @@
    ('game_origin' 'rb3')
    (
       'album_name'
-      "Zenyatta Mondatta"
+      "Zenyattà Mondatta"
    )
    ('album_track_number' 1)
    ('context' 2000)
@@ -7908,7 +7908,7 @@
    )
    (
       'artist'
-      "ManÃ¡"
+      "Maná"
    )
    ('master' 1)
    (
@@ -7990,7 +7990,7 @@
    ('game_origin' 'rb3')
    (
       'album_name'
-      "DÃ³nde JugarÃ¡n los NiÃ±os"
+      "¿Dónde Jugarán los Niños?"
    )
    ('album_track_number' 2)
    ('context' 2000)
