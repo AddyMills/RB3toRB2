@@ -8575,3 +8575,116 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'humanoid'
+   (
+      'name'
+      "Humanoid"
+   )
+   (
+      'artist'
+      "Tokio Hotel"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o42149603/o42149603"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-4.5 -4.5 -5.0 -3.0 -3.0 -4.0 -4.0 -3.0 -3.0 -6.5 -6.5))
+      (cores
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o42149603/o42149603.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 228695)
+   ('preview' 38173 66455)
+   (
+      'rank'
+      (drum 439)
+      (guitar 255)
+      (bass 274)
+      (vocals 432)
+      (band 315)
+   )
+   ('genre' 'poprock')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2009)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1089')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Humanoid"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Humanoid
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
