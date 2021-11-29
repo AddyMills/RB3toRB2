@@ -8350,3 +8350,115 @@
 ;ExpertOnly=0
 )
 
+
+(
+   'beencaughtstealing'
+   (
+      'name'
+      "Been Caught Stealing"
+   )
+   (
+      'artist'
+      "Jane's Addiction"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o993815492/o993815492"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-1.5 -5.5 -5.5 -5.5 -5.5 -2.8 -5.0 -5.0 -5.5 -5.5 -5.5 -5.5))
+      (cores
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o993815492/o993815492.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 206869)
+   ('preview' 23034 53034)
+   (
+      'rank'
+      (drum 413)
+      (guitar 436)
+      (bass 405)
+      (vocals 358)
+	  (band 340)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1990)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1037')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Ritual de lo Habitual"
+   )
+   ('album_track_number' 5)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Been Caught Stealing
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
