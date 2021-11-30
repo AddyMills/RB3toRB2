@@ -8914,3 +8914,116 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'inabigcountry'
+   (
+      'name'
+      "In a Big Country"
+   )
+   (
+      'artist'
+      "Big Country"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o39945772/o39945772"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.2 -3.2 -2.2 -2.2 -4.0 -4.0 -4.5 -4.9 -4.9 -3.7 -3.7 -5.2 -5.2 -4.2 -4.2))
+      (cores
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o39945772/o39945772.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 268058)
+   ('preview' 65596 95596)
+   (
+      'rank'
+      (drum 147)
+      (guitar 261)
+      (bass 446)
+      (vocals 196)
+      (band 235)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1983)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' 'o39945772')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "The Crossing"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the80s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=In a Big Country
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
