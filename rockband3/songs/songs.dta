@@ -8804,7 +8804,7 @@
 
 
 (
-   'onearmedscissors'
+   'onearmedscissor'
    (
       'name'
       "One Armed Scissor"
@@ -9017,6 +9017,119 @@
 ;Created using Onyx Music Game Toolkit version 20191216
 ;Song authored by Harmonix
 ;Song=In a Big Country
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
+
+(
+   'midlifecrisis'
+   (
+      'name'
+      "Midlife Crisis"
+   )
+   (
+      'artist'
+      "Faith No More"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o243752291/o243752291"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-2.3 -2.3 -2.3 -2.3 -4.3 -4.3 -5.3 -5.3 -5.3 -4.3 -4.3 -4.3 -4.3 -6.3 -6.3))
+      (cores
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o243752291/o243752291.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 268807)
+   ('preview' 56796 86796)
+   (
+      'rank'
+      (drum 186)
+      (guitar 175)
+      (bass 180)
+      (vocals 303)
+      (band 165)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1992)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1015')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Angel Dust"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Midlife Crisis
 ;Languages=
 ;Karaoke=0
 ;Multitrack=1
