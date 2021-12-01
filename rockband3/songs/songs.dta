@@ -9589,3 +9589,116 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'lastdance'
+   (
+      'name'
+      "Last Dance"
+   )
+   (
+      'artist'
+      "Raveonettes"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o122841831/o122841831"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5)
+            )
+            (
+               'guitar'
+               (6 7)
+            )
+            (
+               'vocals'
+               (8 9)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (0.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 0.0))
+      (vols
+         (-0.6 -4.0 -4.0 -3.5 -3.5 -2.5 -4.0 -4.0 -4.5 -4.5 -4.5 -4.5 -4.0))
+      (cores
+         (-1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o122841831/o122841831.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 216466)
+   ('preview' 27479 55569)
+   (
+      'rank'
+      (drum 143)
+      (guitar 111)
+      (bass 126)
+      (vocals 170)
+      (band 135)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2009)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1070')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "In and Out of Control"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Last Dance
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
