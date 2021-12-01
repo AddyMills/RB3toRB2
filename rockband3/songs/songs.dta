@@ -9364,3 +9364,117 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'inthemeantime'
+   (
+      'name'
+      "In the Meantime"
+   )
+   (
+      'artist'
+      "Spacehog"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o419715370/o419715370"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (vocal_parts 3)
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-2.5 -2.5 -4.0 -4.0 -4.0 -4.0 -3.5 -3.0 -3.0 -3.5 -3.5 -4.0 -4.0 -4.0 -4.0))
+      (cores
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o419715370/o419715370.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 16)
+   ('song_length' 305111)
+   ('preview' 38011 68011)
+   (
+      'rank'
+      (drum 250)
+      (guitar 332)
+      (bass 142)
+      (vocals 389)
+      (band 291)
+   )
+   ('genre' 'alternative')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 1995)
+   ('rating' 1)
+   ('sub_genre' 'subgenre_alternative')
+   ('song_id' '1014')
+   ('tuning_offset_cents' 30)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Resident Alien"
+   )
+   ('album_track_number' 1)
+   ('context' 2000)
+   ('decade' 'the90s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=In the Meantime
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
+
