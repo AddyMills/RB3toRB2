@@ -9252,3 +9252,115 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'combatbaby'
+   (
+      'name'
+      "Combat Baby"
+   )
+   (
+      'artist'
+      "Metric"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o25062072/o25062072"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4)
+            )
+            (
+               'bass'
+               (5 6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (pans
+         (0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-1.5 -4.5 -4.5 -4.3 -4.3 -7.4 -7.4 -5.9 -5.9 -3.0 -3.0 -5.3 -5.3 -6.5 -6.5))
+      (cores
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o25062072/o25062072.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 213945)
+   ('preview' 77183 107183)
+   (
+      'rank'
+      (drum 199)
+      (guitar 243)
+      (bass 242)
+      (vocals 297)
+      (band 213)
+   )
+   ('genre' 'indierock')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2003)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_other')
+   ('song_id' '1030')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Old World Underground, Where Are You Now?"
+   )
+   ('album_track_number' 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Combat Baby
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
