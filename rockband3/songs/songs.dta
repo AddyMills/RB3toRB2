@@ -9478,3 +9478,114 @@
 ;ExpertOnly=0
 )
 
+
+(
+   'antibodies'
+   (
+      'name'
+      "Antibodies"
+   )
+   (
+      'artist'
+      "Poni Hoax"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o4778044/o4778044"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1)
+            )
+            (
+               'bass'
+               (2)
+            )
+            (
+               'guitar'
+               (3 4)
+            )
+            (
+               'vocals'
+               (5 6)
+            )
+         )
+      )
+      (pans
+         (-1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-4.0 -4.0 -1.0 -3.7 -3.7 -4.0 -4.0 -4.0 -4.0 -4.0 -4.0))
+      (cores
+         (-1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o4778044/o4778044.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/handclap_bank.milo"
+   )
+   ('anim_tempo' 'kTempoMedium')
+   ('song_length' 283051)
+   ('preview' 59489 89489)
+   (
+      'rank'
+      (drum 179)
+      (guitar 194)
+      (bass 443)
+      (vocals 145)
+      (band 287)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'male')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2008)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1080')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Images of Sigrid"
+   )
+   (album_track_number 4)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Antibodies
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
