@@ -14,7 +14,7 @@ Everything else will have to be converted to Xbox format with a proper tool, lik
 
 PS3 console requires encrypting edats and moggs, and that will have to be done manually unfortunately.
 
-##TODO:
+## TODO:
 
 * Create branch for 360 build
 * Create branch for PS3 CONSOLE build
