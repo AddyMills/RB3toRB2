@@ -9702,3 +9702,116 @@
 ;CATemh=0
 ;ExpertOnly=0
 )
+
+
+(
+   'livinginamerica'
+   (
+      'name'
+      "Living in America"
+   )
+   (
+      'artist'
+      "The Sounds"
+   )
+   ('master' 1)
+   (
+      'song'
+      (
+         'name'
+         "songs/o880654169/o880654169"
+      )
+      (
+         'tracks'
+         (
+            (
+               'drum'
+               (0 1 2 3 4 5)
+            )
+            (
+               'bass'
+               (6)
+            )
+            (
+               'guitar'
+               (7 8)
+            )
+            (
+               'vocals'
+               (9 10)
+            )
+         )
+      )
+      (vocal_parts 2)
+      (pans
+         (-1.0 1.0 -1.0 1.0 -1.0 1.0 0.0 -1.0 1.0 -1.0 1.0 -1.0 1.0 -1.0 1.0))
+      (vols
+         (-3.0 -3.0 -6.0 -6.0 -1.0 -1.0 -4.0 -3.5 -3.5 -3.0 -3.0 -5.0 -5.0 -5.0 -5.0))
+      (cores
+         (-1 -1 -1 -1 -1 -1 -1 1 1 -1 -1 -1 -1 -1 -1))
+      (
+         'drum_solo'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'tom1.cue' 'tom2.cue' 'crash.cue')
+         )
+      )
+      (
+         'drum_freestyle'
+         (
+            'seqs'
+            ('kick.cue' 'snare.cue' 'hat.cue' 'ride.cue' 'crash.cue')
+         )
+      )
+      (midi_file "songs/o880654169/o880654169.mid")
+   )
+   ('song_scroll_speed' 2300)
+   (
+      'bank'
+      "sfx/tambourine_bank.milo"
+   )
+   ('anim_tempo' 32)
+   ('song_length' 213266)
+   ('preview' 53034 83034)
+   (
+      'rank'
+      (drum 159)
+      (guitar 123)
+      (bass 200)
+      (vocals 188)
+      (band 195)
+   )
+   ('genre' 'new_wave')
+   ('vocal_gender' 'female')
+   ('version' 0)
+   ('format' 4)
+   ('album_art' 1)
+   ('year_released' 2002)
+   ('rating' 2)
+   ('sub_genre' 'subgenre_new_wave')
+   ('song_id' '1052')
+   ('tuning_offset_cents' 0.0)
+   ('game_origin' 'rb3')
+   (
+      'album_name'
+      "Living in America"
+   )
+   ('album_track_number' 3)
+   ('context' 2000)
+   ('decade' 'the00s')
+   (downloaded TRUE)
+   ('base_points' 0)
+;DO NOT EDIT THE FOLLOWING LINES MANUALLY
+;Created using Onyx Music Game Toolkit version 20191216
+;Song authored by Harmonix
+;Song=Living in America
+;Languages=
+;Karaoke=0
+;Multitrack=1
+;Convert=0
+;2xBass=0
+;RhythmKeys=0
+;RhythmBass=0
+;CATemh=0
+;ExpertOnly=0
+)
